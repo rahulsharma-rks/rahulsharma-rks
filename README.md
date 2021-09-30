@@ -16,7 +16,7 @@ Here are some ideas to get you started:
  
 # the state is variable
 - 🌱 I’m currently learning Python, Machine Learning, AWS
-- 💬 Ask me about Python, SQl, AWS, Terraform, Web Developement
+- 💬 Ask me about Python, SQL, AWS, Terraform, Web Developement, Machine Learning
 - 📫 How to reach me: Twitter - [@RRks31](https://twitter.com/RRks31)
 - 📫 Learn and Share: Medium - [@rahulsharma-rks31](https://rahulsharma-rks31.medium.com/)
 
