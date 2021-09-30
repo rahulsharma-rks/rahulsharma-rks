@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 <!--
 **rahulsharma-rks/rahulsharma-rks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hello, I'm Rahul!
+### Hello, I'm Rahul 👋
  
-## the state is variable
+# the state is variable
 - 🌱 I’m currently learning Python, Machine Learning, AWS
 - 💬 Ask me about Python, SQl, AWS, Terraform, Web Developement
 - 📫 How to reach me: Twitter - [@RRks31](https://twitter.com/RRks31)
