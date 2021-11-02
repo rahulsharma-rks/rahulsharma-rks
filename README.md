@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 # the state is variable
 - 🌱 I’m currently learning Python, Machine Learning, AWS
 - 💬 Ask me about Python, SQL, AWS, Terraform, Web Developement, Machine Learning
-- 📫 How to reach me: Twitter - [@RRks31](https://twitter.com/RRks31)
-- 📫 Learn and Share: Medium - [@rahulsharma-rks31](https://rahulsharma-rks31.medium.com/)
-
+- 📫 How to reach me: Linktree - [@rahulsharma.rks](https://linktr.ee/rahulsharma.rks)
 
 ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulsharma-rks&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsharma-rks&exclude_repo=github-readme-stats,rahulsharma-rks.github.io)
