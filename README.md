@@ -18,3 +18,11 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python, Machine Learning, AWS
 - 💬 Ask me about Python, SQL, AWS, Terraform, Web Developement, Machine Learning
 - 📫 How to reach me: Linktree - [@rahulsharma.rks](https://linktr.ee/rahulsharma.rks)
+
+### GitHub Streak
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulsharma-rks&theme=highcontrast&hide_border=true" alt="rahulsharma-rks" />
+
+### Activity Trends
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rahulsharma-rks&theme=dracula&hide_border=true)
