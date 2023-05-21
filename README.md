@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 ### Hello, I'm Rahul 👋
  
 # the state is variable
-- 🌱 Data Science Enthusiast
-- 💬 Ask me about Python, SQL, AWS, Data Science
+- 🌱 Cloud Enthusiast
+- 💬 Ask me about Python, SQL, AWS, Azure and Content Writing
 - 📫 How to reach me: Linktree - [@rahulsharma.rks](https://linktr.ee/rahulsharma.rks)
 
 <!--
